@@ -1,2 +1,2 @@
 # kim-wcs
-exercice
+exercice WCS
